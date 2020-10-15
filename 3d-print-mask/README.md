@@ -4,7 +4,7 @@ The Special Needs Mask integrates a grill onto the front of the original Montana
 
 ![worn](images/special-needs-mask-worn.png)
 
-## Instructions
+## Assembly Instructions
 1. Print the mask in the desired size. Click [here](stls/SpecialNeedsMask.stl) for the Special Needs Mask STL file.
 - XL: 110%
 - L: 100%
@@ -18,6 +18,12 @@ The Special Needs Mask integrates a grill onto the front of the original Montana
 
 [This is a very helpful video on attaching the padding](https://www.youtube.com/watch?v=UkYnSPlj7AI).
 
+## Cleaning Instructions
+Use an **alcohol wipe** or **disinfecting wipe** instead of soap and water. Many of the most common 3D printing filaments can be warped by hot water.
+
+## Handouts
+You can [download a handout here](handouts/Instructions%20for%20Families.pdf) to give to families who receive these masks.
+
 ***
 
 # Original Montana Mask V2
@@ -25,10 +31,4 @@ https://github.com/blackbear/make-the-masks
 
 This is the official "V2" Montana Mask design, based on the original design with design enhancements by J.Scott and Dan Robles. They feature size letters on the mask interior, larger eyelets to make threading elastic easier, and a filter that offers interior relief for the user's lips.
 
-Notes on printing: The filter should be printed with the flange facing up. There is enough contouring on the filter to allow the flange to print without supports. All the files are the same size, they merely have different letters. The recommended amount to resize the body and filter before printing are:
-
-
-- XL: 110%
-- L: 100%
-- ML: 95%
-- M: 90%
+Notes on printing: The filter should be printed with the flange facing up. There is enough contouring on the filter to allow the flange to print without supports.
