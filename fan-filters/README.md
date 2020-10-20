@@ -1,9 +1,11 @@
 # Box Fan Air Filter
 Using a standard 20" box fan and 20x20x1 HVAC air filters, you can have extra indoor ventilation and air filtration.
 
-![completed](images/completed-fan.jpg)
+![completed-front](images/completed-fan.jpg)
 
 ## Assembly Instructions for Filters Mounted on the Back of the Fan (PREFERRED)
+
+![completed-back](images/completed-fan-back.jpg)
 
 1. Select or purchase a 20" box fan. The controls must not be on the back of the fan to use this method. If the controls are on the back of the fan, use the next set of assembly instructions.
 2. Purchase a high quality 20" air filter. Filters with a MERV-13 rating can remove smoke, allergens, and possibly virus particles.
