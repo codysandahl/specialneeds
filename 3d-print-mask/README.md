@@ -32,6 +32,15 @@ You can [download a handout here](handouts/Instructions%20for%20Families.pdf) to
 
 ***
 
+# Ventilated Mask
+Our son speaks very softly, so he is very difficult to understand when he is wearing his 3D printed mask and cloth mask on top. This ventilated design has dramatically increased the ability to hear him. Essentially, this is the same design as the original mask, but with extra holes incorporated into the 3D model.
+
+![ventilated](images/ventilated-1.jpg)
+
+Click [here](stls/SpecialNeedsMask_Holes.stl) for the Ventilated Special Needs Mask STL file.
+
+***
+
 # Original Montana Mask V2
 https://github.com/blackbear/make-the-masks
 
