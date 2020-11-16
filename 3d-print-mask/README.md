@@ -7,7 +7,7 @@ The Special Needs Mask integrates a grill onto the front of the original Montana
 
 ## Assembly Instructions
 Click to see the assembly video on YouTube, or see the written instructions below.
-[![assembly-video](images/assembly-video.jpg)](https://www.youtube.com/watch?v=_9colCSyovw)
+[![assembly-video](images/assembly-video.jpg)](https://www.youtube.com/watch?v=Czd80KO87ts)
 
 1. Print the mask in the desired size. Click [here](stls/SpecialNeedsMask.stl) for the Special Needs Mask STL file.
 - L: 110%
